@@ -1,0 +1,16 @@
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.csproj.AssemblyReference.cache
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.AssemblyInfoInputs.cache
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.AssemblyInfo.cs
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.csproj.CoreCompileInputs.cache
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\mis321-pa2-rakern.exe
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\mis321-pa2-rakern.deps.json
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\mis321-pa2-rakern.runtimeconfig.json
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\mis321-pa2-rakern.runtimeconfig.dev.json
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\mis321-pa2-rakern.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\ref\mis321-pa2-rakern.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\bin\Debug\net5.0\mis321-pa2-rakern.pdb
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\ref\mis321-pa2-rakern.dll
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.pdb
+C:\Users\racha\OneDrive\Documents\source\repos\mis321\mis321-pa2-rakern\obj\Debug\net5.0\mis321-pa2-rakern.genruntimeconfig.cache

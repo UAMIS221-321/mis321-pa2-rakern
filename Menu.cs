@@ -14,9 +14,11 @@ namespace mis321_pa2_rakern
 
             do { // attempted extra: error handling when the user enters an invalid input
                 Console.Clear();
-                Console.WriteLine("Welcome to the main menu. Please choose from the following:\n");
+                Console.WriteLine("------------------------------------------------------------");
+                Console.WriteLine("Welcome to the Game Hub. Please choose from the following:\n");
                 Console.WriteLine("1) Begin Game");
                 Console.WriteLine("2) Exit");
+                Console.WriteLine("------------------------------------------------------------");
 
                 userInputString = Console.ReadLine();
                 validInput = CheckValidInput(userInputString, 2);

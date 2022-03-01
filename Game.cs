@@ -23,8 +23,9 @@ namespace mis321_pa2_rakern
                 Console.WriteLine("1.) Jack Sparrow");
                 Console.WriteLine("2.) Will Turner");
                 Console.WriteLine("3.) Davy Jones");
+                Console.WriteLine("4.) Jack the Monkey"); // *POTENTIAL EXTRA* : add extra character that has a new attack
                 userInput = Console.ReadLine();
-                validInput = Menu.CheckValidInput(userInput, 3);
+                validInput = Menu.CheckValidInput(userInput, 4);
                 if (!validInput) Console.Clear();
 
             } while (!validInput); // ID entered must be an integer
@@ -45,6 +46,9 @@ namespace mis321_pa2_rakern
                     break;
                 case 3:
                     player = new DavyJones(){Name = charName};
+                    break;
+                case 4:
+                    player = new JackTheMonkey(){Name = charName};
                     break;
                 default:
                     break;                
